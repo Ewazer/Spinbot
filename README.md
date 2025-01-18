@@ -1,0 +1,2 @@
+# Spinbot
+Bot Discord Casino

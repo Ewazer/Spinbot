@@ -1,28 +1,33 @@
-# Spinbot
-Spinbot est un bot discord casino 🎰 que j'ai développé y a 2 ans.
+# 🎰 Spinbot - Discord Casino Bot
 
-## 🌐 Commandes
+Spinbot is a Discord casino bot I developed 2 years ago.
+
+---
+
+## 🌐 Commands
 
 ### ⚙️ Configuration
-- **`$setup`** : Configure le bot sur votre serveur Discord.
+- **`$setup`**: Configure the bot for your Discord server.
 
-### 💰 Gestion des pièces
-- **`$money [user]`** : Affiche le solde d'un utilisateur.
-- **`$addcoins <membre> <montant>`** : Ajoute des pièces à un utilisateur.
-- **`$removecoins <membre> <montant>`** : Retire des pièces d'un utilisateur.
+### 💰 Coin Management
+- **`$money [user]`**: Displays the balance of a user.
+- **`$addcoins <member> <amount>`**: Adds coins to a user.
+- **`$removecoins <member> <amount>`**: Removes coins from a user.
 
-### 🎲 Mini-jeux
-- **`$roulette`** : Lance une partie de roulette.
-- **`$bet <color/number> <montant> <red;green;black/number>`** : Pariez sur une couleur ou un numéro.
-- **`$coinflip`** : Lance une pièce virtuelle (pile ou face).
-- **`$dice [number]`** : Lance un dé avec un nombre de faces personnalisé.
-- **`$machine <montant>`** : Joue à la machine à sous avec un montant spécifié.
-- **`$battle <rock/paper/scissors> <montant>`** : Affrontez un adversaire à pierre-papier-ciseaux.
+### 🎲 Mini-Games
+- **`$roulette`**: Starts a roulette game.
+- **`$bet <color/number> <amount> <red;green;black/number>`**: Bet on a color or a number.
+- **`$coinflip`**: Flips a virtual coin (heads or tails).
+- **`$dice [number]`**: Rolls a die with a customizable number of sides.
+- **`$machine <amount>`**: Play the slot machine with a specified amount.
+- **`$battle <rock/paper/scissors> <amount>`**: Challenge an opponent in rock-paper-scissors.
 
-### 🏆 Classement
-- **`$leaderboard`** : Affiche les meilleurs joueurs en fonction de leur solde.
+### 🏆 Leaderboard
+- **`$leaderboard`**: Displays the top players based on their balance.
 
-### ❓Help
-- **`$help`** : Affiche la liste de commandes disponibles
+### ❓ Help
+- **`$help`**: Shows the list of available commands.
 
-Fait avec ❤ par **@ewazer** 😸
+---
+
+Made with ❤ by **@ewazer** 😸
